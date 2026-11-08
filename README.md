@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=600&size=32&duration=3000&pause=800&color=FF9FD6&center=true&vCenter=true&width=500&lines=%E4%BD%A0%E5%A5%BD%E5%91%80%EF%BD%9E(%E2%97%95%E2%80%BF%E2%97%95)%EF%BE%89;I'm+owqll45+%E2%99%A1;%E6%8A%8A%E5%B0%8F%E6%9D%BF%E5%AD%90%E7%8E%A9%E5%87%BA%E8%8A%B1%7E" alt="typing" />
 
-# 🌸 owqll45 🌸
+# 🌸 awa 🌸
 
 *(｡･ω･｡)ﾉ 嵌入式硬件玩家 · 掌机改造 · 万物互联 ♡*
 
@@ -15,9 +15,8 @@
 
 ## 🧸 关于我 ♡
 
-🍓 喜欢玩小板子：ESP32 / Cardputer / 树莓派 ੭ ˙ᗜ˙ )੭
-🍡 主攻嵌入式 C/C++，偶尔写点 Python 小工具
-🍰 最近在搞 **双机联机掌机系统** —— Cardputer 当主机，ESP32-C3 当镜像屏 + Xbox 手柄桥，超好玩！
+🍓 喜欢玩小板子：ESP32 / Cardputer / 树莓派
+🍡 主攻嵌入式 C/C++，偶尔写点 Python 
 
 ---
 
