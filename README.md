@@ -20,8 +20,9 @@
 
 | 🎮 项目 | 📝 简介 | 🔧 技术 |
 |---|---|---|
-| [cardputer-arcade](https://github.com/owqll45/cardputer-arcade) | Cardputer ADV 掌机系统：图标桌面 + 五子棋/Pong 等游戏 + ESP-NOW 双机联机 | `ESP32-S3` `ESP-IDF` `ESP-NOW` |
-| [c3-game-monitor](https://github.com/owqll45/c3-game-monitor) | ESP32-C3 镜像监视器：实时显示对面画面，NimBLE 直连 Xbox 手柄 | `ESP32-C3` `BLE HID` `ST7789` |
+| [cardputer-aegis-os](https://github.com/owqll45/cardputer-aegis-os) | AEGIS OS（玄甲）：Cardputer ADV 上的完整掌上系统，游戏 / 工具 / 天链组网 / AI 对话 | `ESP32-S3` `ESP-IDF` `ESP-NOW` |
+| [aegis-c3-bridge](https://github.com/owqll45/aegis-c3-bridge) | AEGIS OS 的 C3 桥：ESP-NOW ↔ LoRa 转发，160×80，兼容 Meshtastic | `ESP32-C3` `LoRa` `BLE` |
+| [aegis-monitor](https://github.com/owqll45/aegis-monitor) | AEGIS OS 的监视器：320×240 状态镜像，Xbox BLE 手柄桥 | `ESP32-C3` `ST7789` `BLE HID` |
 
 ---
 
