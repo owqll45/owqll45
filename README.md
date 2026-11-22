@@ -4,7 +4,7 @@
 
 # 🌸 awa 🌸
 
-*(｡･ω･｡)ﾉ 嵌入式硬件玩家 · 掌机改造 · 万物互联 ♡*
+*(｡･ω･｡)ﾉ 万物互联 ♡*
 
 [![followers](https://img.shields.io/github/followers/owqll45?style=for-the-badge&color=ffb6d9&logo=github)](https://github.com/owqll45)
 ![visitors](https://komarev.com/ghpvc/?username=owqll45&style=for-the-badge&color=c3aed6)
@@ -13,10 +13,6 @@
 
 ---
 
-## 🧸 关于我 ♡
-
-🍓 喜欢玩小板子：ESP32 / Cardputer / 树莓派
-🍡 主攻嵌入式 C/C++，偶尔写点 Python 
 
 ---
 
